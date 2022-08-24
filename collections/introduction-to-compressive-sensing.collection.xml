@@ -1,324 +1,87 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Marco F. Duarte">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11355</md:content-id>
-  <md:title>Introduction to Compressive Sensing</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  <md:uuid>215f3c33-577f-4f67-b2b1-1c3e66c97d90</md:uuid>
-<md:slug>introduction-to-compressive-sensing</md:slug>
-</metadata>
-
+    <md:content-id>col11355</md:content-id>
+    <md:title>Introduction to Compressive Sensing</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>215f3c33-577f-4f67-b2b1-1c3e66c97d90</md:uuid>
+    <md:slug>introduction-to-compressive-sensing</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Signal Spaces</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m46867"/>
-        
-      
-    
-    
-      <col:module document="m47275"/>
-        
-      
-    
-    
-      <col:module document="m47289"/>
-        
-      
-    
-    
-      <col:module document="m47283"/>
-        
-      
-    
-    
-      <col:module document="m47814"/>
-        
-      
-    
-    
-      <col:module document="m47217"/>
-        
-      
-    
-    
-      <col:module document="m47816"/>
-        
-      
-    
-    
-      <col:module document="m47804"/>
-        
-      
-    
-    
-      <col:module document="m47282"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Sparsity and Compressibilty</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m37167"/>
-        
-      
-    
-    
-      <col:module document="m37165"/>
-        
-      
-    
-    
-      <col:module document="m37168"/>
-        
-      
-    
-    
-      <col:module document="m37166"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Compressive Sensing</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m37169"/>
-        
-      
-    
-    
-      <col:module document="m37170"/>
-        
-      
-    
-    
-      <col:module document="m37171"/>
-        
-      
-    
-    
-      <col:module document="m37176"/>
-        
-      
-    
-    
-      <col:module document="m37177"/>
-        
-      
-    
-    
-      <col:module document="m37186"/>
-        
-      
-    
-    
-      <col:module document="m37178"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>ℓ_1-norm minimization</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m37179"/>
-        
-      
-    
-    
-      <col:module document="m37181"/>
-        
-      
-    
-    
-      <col:module document="m37182"/>
-        
-      
-    
-    
-      <col:module document="m37183"/>
-        
-      
-    
-    
-      <col:module document="m37184"/>
-        
-      
-    
-    
-      <col:module document="m37292"/>
-        
-      
-    
-    
-      <col:module document="m37293"/>
-        
-      
-    
-    
-      <col:module document="m37294"/>
-        
-      
-    
-    
-      <col:module document="m37295"/>
-        
-      
-    
-    
-      <col:module document="m37359"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Applications of Compressive Sensing</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m37360"/>
-        
-      
-    
-    
-      <col:module document="m37361"/>
-        
-      
-    
-    
-      <col:module document="m37362"/>
-        
-      
-    
-    
-      <col:module document="m37363"/>
-        
-      
-    
-    
-      <col:module document="m37375"/>
-        
-      
-    
-    
-      <col:module document="m37369"/>
-        
-      
-    
-    
-      <col:module document="m37370"/>
-        
-      
-    
-    
-      <col:module document="m37371"/>
-        
-      
-    
-    
-      <col:module document="m37372"/>
-        
-      
-    
-    
-      <col:module document="m37373"/>
-        
-      
-    
-    
-      <col:module document="m37374"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Appendices (Proofs)</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m37187"/>
-        
-      
-    
-    
-      <col:module document="m37185"/>
-        
-      
-    
-    
-      <col:module document="m32583"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Signal Spaces</md:title>
+      <col:content>
+        <col:module document="m46867"/>
+        <col:module document="m47275"/>
+        <col:module document="m47289"/>
+        <col:module document="m47283"/>
+        <col:module document="m47814"/>
+        <col:module document="m47217"/>
+        <col:module document="m47816"/>
+        <col:module document="m47804"/>
+        <col:module document="m47282"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sparsity and Compressibilty</md:title>
+      <col:content>
+        <col:module document="m37167"/>
+        <col:module document="m37165"/>
+        <col:module document="m37168"/>
+        <col:module document="m37166"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Compressive Sensing</md:title>
+      <col:content>
+        <col:module document="m37169"/>
+        <col:module document="m37170"/>
+        <col:module document="m37171"/>
+        <col:module document="m37176"/>
+        <col:module document="m37177"/>
+        <col:module document="m37186"/>
+        <col:module document="m37178"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>&#x2113;_1-norm minimization</md:title>
+      <col:content>
+        <col:module document="m37179"/>
+        <col:module document="m37181"/>
+        <col:module document="m37182"/>
+        <col:module document="m37183"/>
+        <col:module document="m37184"/>
+        <col:module document="m37292"/>
+        <col:module document="m37293"/>
+        <col:module document="m37294"/>
+        <col:module document="m37295"/>
+        <col:module document="m37359"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Applications of Compressive Sensing</md:title>
+      <col:content>
+        <col:module document="m37360"/>
+        <col:module document="m37361"/>
+        <col:module document="m37362"/>
+        <col:module document="m37363"/>
+        <col:module document="m37375"/>
+        <col:module document="m37369"/>
+        <col:module document="m37370"/>
+        <col:module document="m37371"/>
+        <col:module document="m37372"/>
+        <col:module document="m37373"/>
+        <col:module document="m37374"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendices (Proofs)</md:title>
+      <col:content>
+        <col:module document="m37187"/>
+        <col:module document="m37185"/>
+        <col:module document="m32583"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
